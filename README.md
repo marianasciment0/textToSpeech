@@ -35,4 +35,7 @@ O arquivo de áudio gerado será salvo como audio.mp3 no mesmo diretório. Opcio
 # Remova o arquivo de áudio (opcional)
 os.remove("audio.mp3")
 ```
+---
+<h2>❎ Tecnologias Utilizadas: </h2>
 
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
